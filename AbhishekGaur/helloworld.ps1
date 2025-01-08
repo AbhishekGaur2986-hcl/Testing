@@ -1,1 +1,1 @@
-Write-Host 'Hello, World!'
+echo "This is a PowerShell File." 
